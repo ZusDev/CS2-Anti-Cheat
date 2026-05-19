@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/4c8331ea-54d7-4b9f-b775-7ba6dc16f7ff
 
 ---
 
-## Requirements
+## 📦 Requirements
 
 [![Metamod:Source](https://img.shields.io/badge/Metamod:Source-2d2d2d?logo=sourceengine)](https://www.sourcemm.net)
 
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/4c8331ea-54d7-4b9f-b775-7ba6dc16f7ff
 
 ---
 
-## Features
+## 🎯 Features
 
 ### Aimbot Detection
 Detects flick speed, angular velocity, crosshair snapping, target locking and triggerbot behavior.
@@ -54,14 +54,14 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
-<img width="761" height="503" alt="Aimlock" src="https://github.com/user-attachments/assets/da7451cf-a7db-47f6-9468-64c3162e74cb" />
+<img width="461" height="203" alt="Aimlock" src="https://github.com/user-attachments/assets/da7451cf-a7db-47f6-9468-64c3162e74cb" />
 
-<img width="740" height="521" alt="Aimbot" src="https://github.com/user-attachments/assets/f79a203d-98ee-4cf2-89ad-eea63c2fc8ae" />
+<img width="440" height="221" alt="Aimbot" src="https://github.com/user-attachments/assets/f79a203d-98ee-4cf2-89ad-eea63c2fc8ae" />
 
 > [!TIP]
 > Optimized performance, customizable action systems, thorough logging, and optional Discord/webhook integrations for real-time server management and evidence tracking are the main features of ACD.
 
-## ACD Official Discord
+## 🛠️ ACD Official Discord
 <a href="https://discord.gg/d5uvMmUpuE"><img src="./discord.png"></a>
 
 
