@@ -4,11 +4,14 @@
 
 ACD uses layered behavioral analysis, real-time monitoring, and engine-level detection systems to identify both obvious rage cheats and sophisticated closet cheats. To detect suspicious activity with high accuracy, ACD continuously examines player behavior, command input, aiming consistency, movement anomalies, and engine interaction patterns.
 
+
 <p align="center">
   <a href="https://discord.gg/d5uvMmUpuE">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+https://github.com/user-attachments/assets/4c8331ea-54d7-4b9f-b775-7ba6dc16f7ff
 
 ---
 
@@ -17,10 +20,6 @@ ACD uses layered behavioral analysis, real-time monitoring, and engine-level det
 [![Metamod:Source](https://img.shields.io/badge/Metamod:Source-2d2d2d?logo=sourceengine)](https://www.sourcemm.net)
 
 [![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-83358F)](https://github.com/roflmuffin/CounterStrikeSharp)
-
----
-
-https://github.com/user-attachments/assets/4c8331ea-54d7-4b9f-b775-7ba6dc16f7ff
 
 ---
 
@@ -55,8 +54,9 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
+<img width="761" height="503" alt="Aimlock" src="https://github.com/user-attachments/assets/da7451cf-a7db-47f6-9468-64c3162e74cb" />
 
-
+<img width="740" height="521" alt="Aimbot" src="https://github.com/user-attachments/assets/f79a203d-98ee-4cf2-89ad-eea63c2fc8ae" />
 
 > [!TIP]
 > Optimized performance, customizable action systems, thorough logging, and optional Discord/webhook integrations for real-time server management and evidence tracking are the main features of ACD.
