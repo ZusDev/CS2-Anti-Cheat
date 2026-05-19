@@ -54,9 +54,9 @@ Sends detailed detection logs, player statistics and evidence reports directly t
 
 ---
 
-<img width="461" height="203" alt="Aimlock" src="https://github.com/user-attachments/assets/da7451cf-a7db-47f6-9468-64c3162e74cb" />
+<img width="461" height="303" alt="Aimlock" src="https://github.com/user-attachments/assets/da7451cf-a7db-47f6-9468-64c3162e74cb" />
 
-<img width="440" height="221" alt="Aimbot" src="https://github.com/user-attachments/assets/f79a203d-98ee-4cf2-89ad-eea63c2fc8ae" />
+<img width="440" height="321" alt="Aimbot" src="https://github.com/user-attachments/assets/f79a203d-98ee-4cf2-89ad-eea63c2fc8ae" />
 
 > [!TIP]
 > Optimized performance, customizable action systems, thorough logging, and optional Discord/webhook integrations for real-time server management and evidence tracking are the main features of ACD.
