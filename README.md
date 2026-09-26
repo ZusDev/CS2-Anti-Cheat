@@ -11,6 +11,12 @@ ACD uses layered behavioral analysis, real-time monitoring, and engine-level det
   </a>
 </p>
 
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/cs4fun)
+
+</div>
+
 https://github.com/user-attachments/assets/4c8331ea-54d7-4b9f-b775-7ba6dc16f7ff
 
 ---
